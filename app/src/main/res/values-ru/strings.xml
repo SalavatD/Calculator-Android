@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Калькулятор</string>
+    <string name="action_about">О программе</string>
+    <string name="version">Версия 1.0</string>
+    <string name="author">Автор: Салават Даутов</string>
+    <string name="creation_date">Дата создания: март 2015 года</string>
+    <string name="edit_text_first_operand_hint">Первый операнд</string>
+    <string name="edit_text_second_operand_hint">Второй операнд</string>
+    <string name="edit_text_result_hint">Результат</string>
+</resources>

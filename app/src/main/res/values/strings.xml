@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="action_about">About</string>
+    <string name="version">Version 1.0</string>
+    <string name="author">Author: Salavat Dautov</string>
+    <string name="creation_date">Creation date: March 2015</string>
+    <string name="edit_text_first_operand_hint">First operand</string>
+    <string name="button_addition_text" translatable="false">+</string>
+    <string name="button_subtraction_text" translatable="false">-</string>
+    <string name="button_multiply_text" translatable="false">×</string>
+    <string name="button_divide_text" translatable="false">÷</string>
+    <string name="edit_text_second_operand_hint">Second operand</string>
+    <string name="text_view_result_text" translatable="false">=</string>
+    <string name="edit_text_result_hint">Result</string>
+</resources>
